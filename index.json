@@ -1,0 +1,2465 @@
+{
+  "count": 246,
+  "pages": [
+    {
+      "pageId": "114851963",
+      "title": "Navigating the UI",
+      "depth": 0,
+      "url": "https://hub.freewheel.tv/space/BC/114851963",
+      "file": "001-Navigating-the-UI.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:12:06.426Z",
+      "bytesHtml": 38870
+    },
+    {
+      "pageId": "113836181",
+      "title": "Trafficking",
+      "depth": 0,
+      "url": "https://hub.freewheel.tv/space/BC/113836181",
+      "file": "002-Trafficking.md",
+      "version": 7,
+      "createdAt": "2026-03-17T13:12:18.749Z",
+      "bytesHtml": 24515
+    },
+    {
+      "pageId": "113770779",
+      "title": "Core Objects",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/113770779",
+      "file": "Trafficking/003-Core-Objects.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:13:06.193Z",
+      "bytesHtml": 9309
+    },
+    {
+      "pageId": "114917541",
+      "title": "Advertisers",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114917541",
+      "file": "Trafficking/Core-Objects/004-Advertisers.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:14:13.699Z",
+      "bytesHtml": 9061
+    },
+    {
+      "pageId": "114524520",
+      "title": "Create an Advertiser",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114524520",
+      "file": "Trafficking/Core-Objects/Advertisers/005-Create-an-Advertiser.md",
+      "version": 5,
+      "createdAt": "2026-03-17T13:19:52.983Z",
+      "bytesHtml": 27079
+    },
+    {
+      "pageId": "114917591",
+      "title": "Campaigns",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114917591",
+      "file": "Trafficking/Core-Objects/006-Campaigns.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:14:45.406Z",
+      "bytesHtml": 15731
+    },
+    {
+      "pageId": "113836735",
+      "title": "Create a Campaign",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113836735",
+      "file": "Trafficking/Core-Objects/Campaigns/007-Create-a-Campaign.md",
+      "version": 5,
+      "createdAt": "2026-03-17T13:19:40.374Z",
+      "bytesHtml": 54017
+    },
+    {
+      "pageId": "115507257",
+      "title": "Experiments",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115507257",
+      "file": "Trafficking/Core-Objects/Campaigns/008-Experiments.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:20:13.065Z",
+      "bytesHtml": 26792
+    },
+    {
+      "pageId": "114852206",
+      "title": "Ghost Bidding",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114852206",
+      "file": "Trafficking/Core-Objects/Campaigns/009-Ghost-Bidding.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:22.118Z",
+      "bytesHtml": 25633
+    },
+    {
+      "pageId": "113836458",
+      "title": "Line Items",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113836458",
+      "file": "Trafficking/Core-Objects/010-Line-Items.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:16:55.826Z",
+      "bytesHtml": 25791
+    },
+    {
+      "pageId": "115507203",
+      "title": "Create a Line Item",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115507203",
+      "file": "Trafficking/Core-Objects/Line-Items/011-Create-a-Line-Item.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:19:46.053Z",
+      "bytesHtml": 64618
+    },
+    {
+      "pageId": "114590031",
+      "title": "Line Item Targeting",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114590031",
+      "file": "Trafficking/Core-Objects/Line-Items/012-Line-Item-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:04.340Z",
+      "bytesHtml": 23275
+    },
+    {
+      "pageId": "115310640",
+      "title": "App/Site Targeting",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/115310640",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/013-AppSite-Targeting.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:22:07.710Z",
+      "bytesHtml": 17771
+    },
+    {
+      "pageId": "113901804",
+      "title": "Content Targeting",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/113901804",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/014-Content-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:22:17.481Z",
+      "bytesHtml": 46501
+    },
+    {
+      "pageId": "114950389",
+      "title": "Environment Targeting",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/114950389",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/015-Environment-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:22:23.631Z",
+      "bytesHtml": 6557
+    },
+    {
+      "pageId": "113967483",
+      "title": "Ads.txt and App-ads.txt Targeting",
+      "depth": 5,
+      "url": "https://hub.freewheel.tv/space/BC/113967483",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/Environment-Targeting/016-Adstxt-and-App-adstxt-Targeting.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:22:45.324Z",
+      "bytesHtml": 8268
+    },
+    {
+      "pageId": "115507310",
+      "title": "Exchange Targeting",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/115507310",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/017-Exchange-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:22:25.860Z",
+      "bytesHtml": 2203
+    },
+    {
+      "pageId": "114327845",
+      "title": "Geo Targeting",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/114327845",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/018-Geo-Targeting.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:22:30.329Z",
+      "bytesHtml": 157091
+    },
+    {
+      "pageId": "115212490",
+      "title": "Platform Targeting",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/115212490",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/019-Platform-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:22:32.671Z",
+      "bytesHtml": 6207
+    },
+    {
+      "pageId": "114426115",
+      "title": "Time Targeting",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/114426115",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/020-Time-Targeting.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:22:40.668Z",
+      "bytesHtml": 4050
+    },
+    {
+      "pageId": "114295227",
+      "title": "Segments Targeting",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/114295227",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/021-Segments-Targeting.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:22:37.270Z",
+      "bytesHtml": 18097
+    },
+    {
+      "pageId": "113639760",
+      "title": "Contextual Targeting",
+      "depth": 5,
+      "url": "https://hub.freewheel.tv/space/BC/113639760",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/Segments-Targeting/022-Contextual-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:22:47.870Z",
+      "bytesHtml": 3060
+    },
+    {
+      "pageId": "115114466",
+      "title": "Include, Exclude, and Require Targeting Verbs",
+      "depth": 5,
+      "url": "https://hub.freewheel.tv/space/BC/115114466",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/Segments-Targeting/023-Include-Exclude-and-Require-Targeting-Verbs.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:22:50.163Z",
+      "bytesHtml": 5327
+    },
+    {
+      "pageId": "115343540",
+      "title": "Audio Targeting",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/115343540",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/024-Audio-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:22:09.970Z",
+      "bytesHtml": 4163
+    },
+    {
+      "pageId": "114524579",
+      "title": "Video Targeting",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/114524579",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Targeting/025-Video-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:22:42.957Z",
+      "bytesHtml": 4805
+    },
+    {
+      "pageId": "114590004",
+      "title": "Line Item Analytics",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114590004",
+      "file": "Trafficking/Core-Objects/Line-Items/026-Line-Item-Analytics.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:47.332Z",
+      "bytesHtml": 3038
+    },
+    {
+      "pageId": "114295199",
+      "title": "Bid Decision Flow",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/114295199",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Analytics/027-Bid-Decision-Flow.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:22:12.384Z",
+      "bytesHtml": 26694
+    },
+    {
+      "pageId": "115310669",
+      "title": "Forecasting",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/115310669",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Analytics/028-Forecasting.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:22:28.137Z",
+      "bytesHtml": 19631
+    },
+    {
+      "pageId": "113672676",
+      "title": "Real Time Stats",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/113672676",
+      "file": "Trafficking/Core-Objects/Line-Items/Line-Item-Analytics/029-Real-Time-Stats.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:22:34.853Z",
+      "bytesHtml": 18539
+    },
+    {
+      "pageId": "114884888",
+      "title": "Line Item Activity Log",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114884888",
+      "file": "Trafficking/Core-Objects/Line-Items/030-Line-Item-Activity-Log.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:20:43.787Z",
+      "bytesHtml": 8161
+    },
+    {
+      "pageId": "113738072",
+      "title": "Guaranteed Line Items",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113738072",
+      "file": "Trafficking/Core-Objects/Line-Items/031-Guaranteed-Line-Items.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:20:24.656Z",
+      "bytesHtml": 17419
+    },
+    {
+      "pageId": "115474433",
+      "title": "Bidding Strategies",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115474433",
+      "file": "Trafficking/Core-Objects/Line-Items/032-Bidding-Strategies.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:19:26.304Z",
+      "bytesHtml": 26770
+    },
+    {
+      "pageId": "113836708",
+      "title": "Bid Shading",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113836708",
+      "file": "Trafficking/Core-Objects/Line-Items/033-Bid-Shading.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:19:23.539Z",
+      "bytesHtml": 8828
+    },
+    {
+      "pageId": "114131227",
+      "title": "Pacing",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114131227",
+      "file": "Trafficking/Core-Objects/Line-Items/034-Pacing.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:23.120Z",
+      "bytesHtml": 33273
+    },
+    {
+      "pageId": "114426040",
+      "title": "Line Item Export",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114426040",
+      "file": "Trafficking/Core-Objects/Line-Items/035-Line-Item-Export.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:53.234Z",
+      "bytesHtml": 747299
+    },
+    {
+      "pageId": "113967438",
+      "title": "Line Item Import",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113967438",
+      "file": "Trafficking/Core-Objects/Line-Items/036-Line-Item-Import.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:01.528Z",
+      "bytesHtml": 9811
+    },
+    {
+      "pageId": "114688341",
+      "title": "Line Item Doctor",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114688341",
+      "file": "Trafficking/Core-Objects/Line-Items/037-Line-Item-Doctor.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:50.437Z",
+      "bytesHtml": 11186
+    },
+    {
+      "pageId": "115245116",
+      "title": "Creatives",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115245116",
+      "file": "Trafficking/Core-Objects/038-Creatives.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:15:01.682Z",
+      "bytesHtml": 11109
+    },
+    {
+      "pageId": "115408899",
+      "title": "AdChoices",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115408899",
+      "file": "Trafficking/Core-Objects/Creatives/039-AdChoices.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:19:16.076Z",
+      "bytesHtml": 3210
+    },
+    {
+      "pageId": "113705198",
+      "title": "Create a New Creative",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113705198",
+      "file": "Trafficking/Core-Objects/Creatives/040-Create-a-New-Creative.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:19:49.092Z",
+      "bytesHtml": 131492
+    },
+    {
+      "pageId": "114688403",
+      "title": "Click Macros",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/114688403",
+      "file": "Trafficking/Core-Objects/Creatives/Create-a-New-Creative/041-Click-Macros.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:22:14.987Z",
+      "bytesHtml": 15593
+    },
+    {
+      "pageId": "114688430",
+      "title": "Creative Bulk Upload",
+      "depth": 4,
+      "url": "https://hub.freewheel.tv/space/BC/114688430",
+      "file": "Trafficking/Core-Objects/Creatives/Create-a-New-Creative/042-Creative-Bulk-Upload.md",
+      "version": 5,
+      "createdAt": "2026-03-17T13:22:20.104Z",
+      "bytesHtml": 52158
+    },
+    {
+      "pageId": "114524550",
+      "title": "Creative Approvals",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114524550",
+      "file": "Trafficking/Core-Objects/Creatives/043-Creative-Approvals.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:19:58.273Z",
+      "bytesHtml": 14266
+    },
+    {
+      "pageId": "114622922",
+      "title": "Creative Flights",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114622922",
+      "file": "Trafficking/Core-Objects/Creatives/044-Creative-Flights.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:00.500Z",
+      "bytesHtml": 5316
+    },
+    {
+      "pageId": "114393318",
+      "title": "Creative Requirements by Exchange",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114393318",
+      "file": "Trafficking/Core-Objects/Creatives/045-Creative-Requirements-by-Exchange.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:20:03.211Z",
+      "bytesHtml": 3616
+    },
+    {
+      "pageId": "114688293",
+      "title": "Creative Weighting",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114688293",
+      "file": "Trafficking/Core-Objects/Creatives/046-Creative-Weighting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:05.504Z",
+      "bytesHtml": 3826
+    },
+    {
+      "pageId": "115507287",
+      "title": "Post-bid Viewability Measurement - Banner",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115507287",
+      "file": "Trafficking/Core-Objects/Creatives/047-Post-bid-Viewability-Measurement---Banner.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:27.312Z",
+      "bytesHtml": 6437
+    },
+    {
+      "pageId": "113639697",
+      "title": "Post-bid Viewability Measurement - Video",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113639697",
+      "file": "Trafficking/Core-Objects/Creatives/048-Post-bid-Viewability-Measurement---Video.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:29.602Z",
+      "bytesHtml": 4741
+    },
+    {
+      "pageId": "113639739",
+      "title": "Skippable Video",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113639739",
+      "file": "Trafficking/Core-Objects/Creatives/049-Skippable-Video.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:21:54.108Z",
+      "bytesHtml": 2804
+    },
+    {
+      "pageId": "114229625",
+      "title": "VAST 3.0 Support",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114229625",
+      "file": "Trafficking/Core-Objects/Creatives/050-VAST-30-Support.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:22:05.273Z",
+      "bytesHtml": 5779
+    },
+    {
+      "pageId": "114524441",
+      "title": "Tools",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114524441",
+      "file": "Trafficking/051-Tools.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:14:02.814Z",
+      "bytesHtml": 19270
+    },
+    {
+      "pageId": "113836345",
+      "title": "Bulk Status",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113836345",
+      "file": "Trafficking/Tools/052-Bulk-Status.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:42.600Z",
+      "bytesHtml": 5596
+    },
+    {
+      "pageId": "115015873",
+      "title": "Creative Add-Ons",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115015873",
+      "file": "Trafficking/Tools/053-Creative-Add-Ons.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:14:56.086Z",
+      "bytesHtml": 16694
+    },
+    {
+      "pageId": "113639582",
+      "title": "Deals",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113639582",
+      "file": "Trafficking/Tools/054-Deals.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:15:05.571Z",
+      "bytesHtml": 49290
+    },
+    {
+      "pageId": "115245227",
+      "title": "Deal Troubleshooting",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115245227",
+      "file": "Trafficking/Tools/Deals/055-Deal-Troubleshooting.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:20:07.789Z",
+      "bytesHtml": 6330
+    },
+    {
+      "pageId": "114098394",
+      "title": "Targeting Open & Private Market using Passthrough Deal IDs",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114098394",
+      "file": "Trafficking/Tools/Deals/056-Targeting-Open-Private-Market-using-Passthrough-Deal-IDs.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:56.270Z",
+      "bytesHtml": 3840
+    },
+    {
+      "pageId": "114229464",
+      "title": "Events",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114229464",
+      "file": "Trafficking/Tools/057-Events.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:30.443Z",
+      "bytesHtml": 18274
+    },
+    {
+      "pageId": "114852181",
+      "title": "Conversion and Attribution Setup (Non-Postback)",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114852181",
+      "file": "Trafficking/Tools/Events/058-Conversion-and-Attribution-Setup-Non-Postback.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:19:35.717Z",
+      "bytesHtml": 5068
+    },
+    {
+      "pageId": "115441670",
+      "title": "Creating an Event Tag",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115441670",
+      "file": "Trafficking/Tools/Events/059-Creating-an-Event-Tag.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:19:55.668Z",
+      "bytesHtml": 7526
+    },
+    {
+      "pageId": "115114411",
+      "title": "Postback Handling for Conversions",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115114411",
+      "file": "Trafficking/Tools/Events/060-Postback-Handling-for-Conversions.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:32.014Z",
+      "bytesHtml": 16388
+    },
+    {
+      "pageId": "113705155",
+      "title": "Lists",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113705155",
+      "file": "Trafficking/Tools/061-Lists.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:17:01.518Z",
+      "bytesHtml": 12578
+    },
+    {
+      "pageId": "115441697",
+      "title": "How to download Buzz 'List' contents via the Browser",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115441697",
+      "file": "Trafficking/Tools/Lists/062-How-to-download-Buzz-List-contents-via-the-Browser.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:29.179Z",
+      "bytesHtml": 3265
+    },
+    {
+      "pageId": "114032940",
+      "title": "Models",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114032940",
+      "file": "Trafficking/Tools/063-Models.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:17:32.518Z",
+      "bytesHtml": 8498
+    },
+    {
+      "pageId": "115081555",
+      "title": "Create a Bid Model",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115081555",
+      "file": "Trafficking/Tools/Models/064-Create-a-Bid-Model.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:19:38.042Z",
+      "bytesHtml": 18651
+    },
+    {
+      "pageId": "115016002",
+      "title": "Create a Delivery Model",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115016002",
+      "file": "Trafficking/Tools/Models/065-Create-a-Delivery-Model.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:19:43.512Z",
+      "bytesHtml": 13980
+    },
+    {
+      "pageId": "114360962",
+      "title": "Upload Bid and Delivery Models to S3",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114360962",
+      "file": "Trafficking/Tools/Models/066-Upload-Bid-and-Delivery-Models-to-S3.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:58.556Z",
+      "bytesHtml": 6730
+    },
+    {
+      "pageId": "114393262",
+      "title": "Modifiers",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114393262",
+      "file": "Trafficking/Tools/067-Modifiers.md",
+      "version": 6,
+      "createdAt": "2026-03-17T13:17:35.890Z",
+      "bytesHtml": 59905
+    },
+    {
+      "pageId": "115015921",
+      "title": "Native Offers",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115015921",
+      "file": "Trafficking/Tools/068-Native-Offers.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:17:39.273Z",
+      "bytesHtml": 17919
+    },
+    {
+      "pageId": "114295084",
+      "title": "Presets",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114295084",
+      "file": "Trafficking/Tools/069-Presets.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:18:02.443Z",
+      "bytesHtml": 16426
+    },
+    {
+      "pageId": "114852102",
+      "title": "Segments",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114852102",
+      "file": "Trafficking/Tools/070-Segments.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:18:26.843Z",
+      "bytesHtml": 41980
+    },
+    {
+      "pageId": "113639718",
+      "title": "Segment Categories and Segment Category Sharing",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113639718",
+      "file": "Trafficking/Tools/Segments/071-Segment-Categories-and-Segment-Category-Sharing.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:36.916Z",
+      "bytesHtml": 4686
+    },
+    {
+      "pageId": "114688367",
+      "title": "Segment Filtering and Favorites",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114688367",
+      "file": "Trafficking/Tools/Segments/072-Segment-Filtering-and-Favorites.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:44.544Z",
+      "bytesHtml": 4333
+    },
+    {
+      "pageId": "115408955",
+      "title": "Segment Recency Targeting",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115408955",
+      "file": "Trafficking/Tools/Segments/073-Segment-Recency-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:47.433Z",
+      "bytesHtml": 4562
+    },
+    {
+      "pageId": "114950366",
+      "title": "Segment Tag Troubleshooting",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114950366",
+      "file": "Trafficking/Tools/Segments/074-Segment-Tag-Troubleshooting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:49.770Z",
+      "bytesHtml": 3264
+    },
+    {
+      "pageId": "113869253",
+      "title": "Segment Upload Troubleshooting",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113869253",
+      "file": "Trafficking/Tools/Segments/075-Segment-Upload-Troubleshooting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:52.139Z",
+      "bytesHtml": 8514
+    },
+    {
+      "pageId": "113672653",
+      "title": "Multi-Sync Tags",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113672653",
+      "file": "Trafficking/Tools/Segments/076-Multi-Sync-Tags.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:21:20.620Z",
+      "bytesHtml": 3448
+    },
+    {
+      "pageId": "115212459",
+      "title": "Segment Extension",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115212459",
+      "file": "Trafficking/Tools/Segments/077-Segment-Extension.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:21:39.438Z",
+      "bytesHtml": 14354
+    },
+    {
+      "pageId": "113836613",
+      "title": "Segment Uploads",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113836613",
+      "file": "Trafficking/Tools/078-Segment-Uploads.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:18:23.817Z",
+      "bytesHtml": 26158
+    },
+    {
+      "pageId": "115081594",
+      "title": "Upload Segments to S3",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115081594",
+      "file": "Trafficking/Tools/Segment-Uploads/079-Upload-Segments-to-S3.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:22:00.703Z",
+      "bytesHtml": 13183
+    },
+    {
+      "pageId": "303628351",
+      "title": "PII Segment Onboarding",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/303628351",
+      "file": "Trafficking/Tools/Segment-Uploads/080-PII-Segment-Onboarding.md",
+      "version": 5,
+      "createdAt": "2026-05-11T16:14:31.927Z",
+      "bytesHtml": 7512
+    },
+    {
+      "pageId": "113869200",
+      "title": "Vendors",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113869200",
+      "file": "Trafficking/Tools/081-Vendors.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:19:09.233Z",
+      "bytesHtml": 21593
+    },
+    {
+      "pageId": "114098263",
+      "title": "Analytics",
+      "depth": 0,
+      "url": "https://hub.freewheel.tv/space/BC/114098263",
+      "file": "082-Analytics.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:11:56.823Z",
+      "bytesHtml": 8452
+    },
+    {
+      "pageId": "115343463",
+      "title": "Reporting",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115343463",
+      "file": "Analytics/083-Reporting.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:13:46.667Z",
+      "bytesHtml": 27107
+    },
+    {
+      "pageId": "114622863",
+      "title": "Report Builder Reports",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114622863",
+      "file": "Analytics/Reporting/084-Report-Builder-Reports.md",
+      "version": 9,
+      "createdAt": "2026-03-17T13:18:13.869Z",
+      "bytesHtml": 77831
+    },
+    {
+      "pageId": "113869064",
+      "title": "Analytics Data Dictionary",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113869064",
+      "file": "Analytics/Reporting/085-Analytics-Data-Dictionary.md",
+      "version": 6,
+      "createdAt": "2026-03-17T13:14:16.867Z",
+      "bytesHtml": 256766
+    },
+    {
+      "pageId": "113869091",
+      "title": "Discrepancy Troubleshooting",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113869091",
+      "file": "Analytics/Reporting/086-Discrepancy-Troubleshooting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:23.639Z",
+      "bytesHtml": 8023
+    },
+    {
+      "pageId": "114425982",
+      "title": "Identity-Enriched Logs",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114425982",
+      "file": "Analytics/Reporting/087-Identity-Enriched-Logs.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:16:22.247Z",
+      "bytesHtml": 34192
+    },
+    {
+      "pageId": "114131198",
+      "title": "Parquet Support",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114131198",
+      "file": "Analytics/Reporting/088-Parquet-Support.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:18:00.222Z",
+      "bytesHtml": 2465
+    },
+    {
+      "pageId": "114295170",
+      "title": "Reach and Frequency Measure in Reporting",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114295170",
+      "file": "Analytics/Reporting/089-Reach-and-Frequency-Measure-in-Reporting.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:18:08.923Z",
+      "bytesHtml": 3718
+    },
+    {
+      "pageId": "115179736",
+      "title": "Table Calculations in Reporting",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115179736",
+      "file": "Analytics/Reporting/090-Table-Calculations-in-Reporting.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:18:57.057Z",
+      "bytesHtml": 10057
+    },
+    {
+      "pageId": "113967290",
+      "title": "Enabling AWS S3 Permission",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113967290",
+      "file": "Analytics/Reporting/091-Enabling-AWS-S3-Permission.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:25.693Z",
+      "bytesHtml": 7791
+    },
+    {
+      "pageId": "114032981",
+      "title": "Setting up a Kinesis Stream Permissions",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114032981",
+      "file": "Analytics/Reporting/092-Setting-up-a-Kinesis-Stream-Permissions.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:18:44.019Z",
+      "bytesHtml": 7043
+    },
+    {
+      "pageId": "113869151",
+      "title": "Sellers.json and Schain Reporting",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113869151",
+      "file": "Analytics/Reporting/093-Sellersjson-and-Schain-Reporting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:18:32.729Z",
+      "bytesHtml": 21487
+    },
+    {
+      "pageId": "115343425",
+      "title": "Dashboards",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115343425",
+      "file": "Analytics/094-Dashboards.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:13:16.565Z",
+      "bytesHtml": 17638
+    },
+    {
+      "pageId": "114589883",
+      "title": "Audience Dashboard",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114589883",
+      "file": "Analytics/Dashboards/095-Audience-Dashboard.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:14:24.888Z",
+      "bytesHtml": 13276
+    },
+    {
+      "pageId": "114032884",
+      "title": "Metamarkets",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114032884",
+      "file": "Analytics/Dashboards/096-Metamarkets.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:17:29.430Z",
+      "bytesHtml": 29340
+    },
+    {
+      "pageId": "114360926",
+      "title": "Metamarkets Reporting - Explore View",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114360926",
+      "file": "Analytics/Dashboards/Metamarkets/097-Metamarkets-Reporting---Explore-View.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:21:13.892Z",
+      "bytesHtml": 4420
+    },
+    {
+      "pageId": "113705241",
+      "title": "Metamarkets Reporting - Facet View",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113705241",
+      "file": "Analytics/Dashboards/Metamarkets/098-Metamarkets-Reporting---Facet-View.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:17.246Z",
+      "bytesHtml": 5649
+    },
+    {
+      "pageId": "114164012",
+      "title": "Metamarkets Reporting - Bar Chart View",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114164012",
+      "file": "Analytics/Dashboards/Metamarkets/099-Metamarkets-Reporting---Bar-Chart-View.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:09.361Z",
+      "bytesHtml": 4976
+    },
+    {
+      "pageId": "114262364",
+      "title": "Supply Transparency Dashboard",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114262364",
+      "file": "Analytics/Dashboards/100-Supply-Transparency-Dashboard.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:18:49.540Z",
+      "bytesHtml": 21509
+    },
+    {
+      "pageId": "303202333",
+      "title": "Planning",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/303202333",
+      "file": "Analytics/101-Planning.md",
+      "version": 2,
+      "createdAt": "2026-05-11T16:10:35.541Z",
+      "bytesHtml": 627
+    },
+    {
+      "pageId": "304677232",
+      "title": "Campaign Planner",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/304677232",
+      "file": "Analytics/Planning/102-Campaign-Planner.md",
+      "version": 5,
+      "createdAt": "2026-05-11T16:13:27.690Z",
+      "bytesHtml": 10325
+    },
+    {
+      "pageId": "115081410",
+      "title": "Admin",
+      "depth": 0,
+      "url": "https://hub.freewheel.tv/space/BC/115081410",
+      "file": "103-Admin.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:11:53.903Z",
+      "bytesHtml": 8733
+    },
+    {
+      "pageId": "115114172",
+      "title": "Accounts",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115114172",
+      "file": "Admin/104-Accounts.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:12:35.393Z",
+      "bytesHtml": 26436
+    },
+    {
+      "pageId": "115343495",
+      "title": "Account Level Revenue Share",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115343495",
+      "file": "Admin/Accounts/105-Account-Level-Revenue-Share.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:11.296Z",
+      "bytesHtml": 8482
+    },
+    {
+      "pageId": "113803770",
+      "title": "How To Reset Your Password",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113803770",
+      "file": "Admin/Accounts/106-How-To-Reset-Your-Password.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:16:11.782Z",
+      "bytesHtml": 4223
+    },
+    {
+      "pageId": "115114341",
+      "title": "Timezone Support",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115114341",
+      "file": "Admin/Accounts/107-Timezone-Support.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:19:01.774Z",
+      "bytesHtml": 10064
+    },
+    {
+      "pageId": "113803638",
+      "title": "Alert Settings",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/113803638",
+      "file": "Admin/108-Alert-Settings.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:12:41.536Z",
+      "bytesHtml": 12388
+    },
+    {
+      "pageId": "115277831",
+      "title": "Account Groups",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115277831",
+      "file": "Admin/109-Account-Groups.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:12:31.891Z",
+      "bytesHtml": 11427
+    },
+    {
+      "pageId": "114688184",
+      "title": "Users",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114688184",
+      "file": "Admin/110-Users.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:07.942Z",
+      "bytesHtml": 11449
+    },
+    {
+      "pageId": "114786489",
+      "title": "Roles",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114786489",
+      "file": "Admin/111-Roles.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:13:52.083Z",
+      "bytesHtml": 33290
+    },
+    {
+      "pageId": "114327786",
+      "title": "Identity Network",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114327786",
+      "file": "Admin/112-Identity-Network.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:13:33.343Z",
+      "bytesHtml": 15798
+    },
+    {
+      "pageId": "114786537",
+      "title": "Identity Network UI",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114786537",
+      "file": "Admin/Identity-Network/113-Identity-Network-UI.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:16:18.437Z",
+      "bytesHtml": 15419
+    },
+    {
+      "pageId": "114786670",
+      "title": "Onboarding First-Party IDs",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114786670",
+      "file": "Admin/Identity-Network/114-Onboarding-First-Party-IDs.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:17:57.893Z",
+      "bytesHtml": 12329
+    },
+    {
+      "pageId": "113836671",
+      "title": "Utilizing the Identity Network",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113836671",
+      "file": "Admin/Identity-Network/115-Utilizing-the-Identity-Network.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:19:06.249Z",
+      "bytesHtml": 20847
+    },
+    {
+      "pageId": "115212424",
+      "title": "Attribution Powered by FreeWheel Identity Network",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115212424",
+      "file": "Admin/Identity-Network/Utilizing-the-Identity-Network/116-Attribution-Powered-by-FreeWheel-Identity-Network.md",
+      "version": 5,
+      "createdAt": "2026-03-17T13:19:21.264Z",
+      "bytesHtml": 8572
+    },
+    {
+      "pageId": "114688314",
+      "title": "Hashed Email Addresses in FreeWheel Identity Network",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114688314",
+      "file": "Admin/Identity-Network/Utilizing-the-Identity-Network/117-Hashed-Email-Addresses-in-FreeWheel-Identity-Network.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:20:26.905Z",
+      "bytesHtml": 7991
+    },
+    {
+      "pageId": "115408930",
+      "title": "Segment Extension with Identity Network",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115408930",
+      "file": "Admin/Identity-Network/Utilizing-the-Identity-Network/118-Segment-Extension-with-Identity-Network.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:21:41.991Z",
+      "bytesHtml": 9327
+    },
+    {
+      "pageId": "115245088",
+      "title": "Seat IDs",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115245088",
+      "file": "Admin/119-Seat-IDs.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:13:55.377Z",
+      "bytesHtml": 20227
+    },
+    {
+      "pageId": "114229431",
+      "title": "Concepts",
+      "depth": 0,
+      "url": "https://hub.freewheel.tv/space/BC/114229431",
+      "file": "120-Concepts.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:12:01.930Z",
+      "bytesHtml": 6014
+    },
+    {
+      "pageId": "114786471",
+      "title": "Glossary",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114786471",
+      "file": "Concepts/121-Glossary.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:13:28.954Z",
+      "bytesHtml": 12640
+    },
+    {
+      "pageId": "114884777",
+      "title": "Trafficking Concepts",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114884777",
+      "file": "Concepts/122-Trafficking-Concepts.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:05.414Z",
+      "bytesHtml": 5436
+    },
+    {
+      "pageId": "115114305",
+      "title": "Frequency Caps",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115114305",
+      "file": "Concepts/Trafficking-Concepts/123-Frequency-Caps.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:46.280Z",
+      "bytesHtml": 15876
+    },
+    {
+      "pageId": "115081486",
+      "title": "How to Troubleshoot a Low Win Rate",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115081486",
+      "file": "Concepts/Trafficking-Concepts/124-How-to-Troubleshoot-a-Low-Win-Rate.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:16:16.175Z",
+      "bytesHtml": 5167
+    },
+    {
+      "pageId": "114033002",
+      "title": "Troubleshooting Steps If Your Line Item is Not Delivering",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114033002",
+      "file": "Concepts/Trafficking-Concepts/125-Troubleshooting-Steps-If-Your-Line-Item-is-Not-Delivering.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:19:04.049Z",
+      "bytesHtml": 8115
+    },
+    {
+      "pageId": "113999990",
+      "title": "Revenue Tracking",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113999990",
+      "file": "Concepts/Trafficking-Concepts/126-Revenue-Tracking.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:18:19.353Z",
+      "bytesHtml": 8845
+    },
+    {
+      "pageId": "114295033",
+      "title": "Ensuring Exclusive Access to Private Auction Supply via wseat and wadomain",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114295033",
+      "file": "Concepts/Trafficking-Concepts/127-Ensuring-Exclusive-Access-to-Private-Auction-Supply-via-wseat-and-wadomain.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:28.146Z",
+      "bytesHtml": 3679
+    },
+    {
+      "pageId": "114852152",
+      "title": "Support for Apple SKAdNetwork",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114852152",
+      "file": "Concepts/Trafficking-Concepts/128-Support-for-Apple-SKAdNetwork.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:18:54.113Z",
+      "bytesHtml": 27116
+    },
+    {
+      "pageId": "114163940",
+      "title": "Budget Types",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114163940",
+      "file": "Concepts/Trafficking-Concepts/129-Budget-Types.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:38.034Z",
+      "bytesHtml": 11820
+    },
+    {
+      "pageId": "115343363",
+      "title": "Analytics Concepts",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115343363",
+      "file": "Concepts/130-Analytics-Concepts.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:12:44.515Z",
+      "bytesHtml": 5434
+    },
+    {
+      "pageId": "114425957",
+      "title": "Conversion and Attribution Methodology",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114425957",
+      "file": "Concepts/Analytics-Concepts/131-Conversion-and-Attribution-Methodology.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:51.771Z",
+      "bytesHtml": 6956
+    },
+    {
+      "pageId": "113803747",
+      "title": "Creative Validation Tool Detection in Click URLs",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113803747",
+      "file": "Concepts/Analytics-Concepts/132-Creative-Validation-Tool-Detection-in-Click-URLs.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:59.424Z",
+      "bytesHtml": 3513
+    },
+    {
+      "pageId": "114360737",
+      "title": "Delayed Impressions and Backfills",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114360737",
+      "file": "Concepts/Analytics-Concepts/133-Delayed-Impressions-and-Backfills.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:19.120Z",
+      "bytesHtml": 7918
+    },
+    {
+      "pageId": "115212362",
+      "title": "IP Attribution",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115212362",
+      "file": "Concepts/Analytics-Concepts/134-IP-Attribution.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:16:27.079Z",
+      "bytesHtml": 5520
+    },
+    {
+      "pageId": "114622834",
+      "title": "Logs FAQs",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114622834",
+      "file": "Concepts/Analytics-Concepts/135-Logs-FAQs.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:17:04.930Z",
+      "bytesHtml": 13473
+    },
+    {
+      "pageId": "114884731",
+      "title": "Admin Concepts",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114884731",
+      "file": "Concepts/136-Admin-Concepts.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:12:39.251Z",
+      "bytesHtml": 5430
+    },
+    {
+      "pageId": "114163983",
+      "title": "Sandbox Environment",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114163983",
+      "file": "Concepts/Admin-Concepts/137-Sandbox-Environment.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:18:21.544Z",
+      "bytesHtml": 3550
+    },
+    {
+      "pageId": "115015965",
+      "title": "Self-Service Features",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115015965",
+      "file": "Concepts/Admin-Concepts/138-Self-Service-Features.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:18:30.507Z",
+      "bytesHtml": 5607
+    },
+    {
+      "pageId": "113967407",
+      "title": "White Labeling for Buyer Cloud",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113967407",
+      "file": "Concepts/Admin-Concepts/139-White-Labeling-for-Buyer-Cloud.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:19:12.564Z",
+      "bytesHtml": 21217
+    },
+    {
+      "pageId": "114950329",
+      "title": "Bidder Concepts",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114950329",
+      "file": "Concepts/140-Bidder-Concepts.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:12:56.171Z",
+      "bytesHtml": 5431
+    },
+    {
+      "pageId": "114098361",
+      "title": "Introduction to RTB",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114098361",
+      "file": "Concepts/Bidder-Concepts/141-Introduction-to-RTB.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:16:24.715Z",
+      "bytesHtml": 10001
+    },
+    {
+      "pageId": "114262339",
+      "title": "Reasons Bid Requests are Dropped",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114262339",
+      "file": "Concepts/Bidder-Concepts/142-Reasons-Bid-Requests-are-Dropped.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:18:11.503Z",
+      "bytesHtml": 3152
+    },
+    {
+      "pageId": "114360758",
+      "title": "Discrepancy Allowance",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114360758",
+      "file": "Concepts/Bidder-Concepts/143-Discrepancy-Allowance.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:21.479Z",
+      "bytesHtml": 3299
+    },
+    {
+      "pageId": "114360891",
+      "title": "QPS",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114360891",
+      "file": "Concepts/Bidder-Concepts/144-QPS.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:18:06.383Z",
+      "bytesHtml": 5895
+    },
+    {
+      "pageId": "115081534",
+      "title": "Advanced QPS Filtering",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115081534",
+      "file": "Concepts/Bidder-Concepts/QPS/145-Advanced-QPS-Filtering.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:19:19.095Z",
+      "bytesHtml": 9215
+    },
+    {
+      "pageId": "114917725",
+      "title": "Filtering Traffic vs Targeting Line Items",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114917725",
+      "file": "Concepts/Bidder-Concepts/QPS/146-Filtering-Traffic-vs-Targeting-Line-Items.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:15.474Z",
+      "bytesHtml": 4572
+    },
+    {
+      "pageId": "114590074",
+      "title": "QPS Management Best Practices",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114590074",
+      "file": "Concepts/Bidder-Concepts/QPS/147-QPS-Management-Best-Practices.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:21:34.710Z",
+      "bytesHtml": 13474
+    },
+    {
+      "pageId": "115114282",
+      "title": "Targeting Concepts",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115114282",
+      "file": "Concepts/148-Targeting-Concepts.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:13:58.293Z",
+      "bytesHtml": 5430
+    },
+    {
+      "pageId": "113836326",
+      "title": "Bulk Edit Targeting",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113836326",
+      "file": "Concepts/Targeting-Concepts/149-Bulk-Edit-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:40.513Z",
+      "bytesHtml": 7306
+    },
+    {
+      "pageId": "114852041",
+      "title": "Flexible Targeting Across Fields",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114852041",
+      "file": "Concepts/Targeting-Concepts/150-Flexible-Targeting-Across-Fields.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:43.974Z",
+      "bytesHtml": 6299
+    },
+    {
+      "pageId": "115081467",
+      "title": "How to Build a Retargeting or Exclusion Segment for App or CTV Using Postbacks",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115081467",
+      "file": "Concepts/Targeting-Concepts/151-How-to-Build-a-Retargeting-or-Exclusion-Segment-for-App-or-CTV-Using-Postbacks.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:15:48.861Z",
+      "bytesHtml": 7453
+    },
+    {
+      "pageId": "115277904",
+      "title": "How to Build Retargeting or Exclusion Segments in Web",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115277904",
+      "file": "Concepts/Targeting-Concepts/152-How-to-Build-Retargeting-or-Exclusion-Segments-in-Web.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:51.083Z",
+      "bytesHtml": 10454
+    },
+    {
+      "pageId": "115179657",
+      "title": "How to Retarget Using Dynamic Segments via Segment Alternative ID",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115179657",
+      "file": "Concepts/Targeting-Concepts/153-How-to-Retarget-Using-Dynamic-Segments-via-Segment-Alternative-ID.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:16:13.900Z",
+      "bytesHtml": 6080
+    },
+    {
+      "pageId": "114360821",
+      "title": "Latitude and Longitude Radius Targeting",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114360821",
+      "file": "Concepts/Targeting-Concepts/154-Latitude-and-Longitude-Radius-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:16:53.567Z",
+      "bytesHtml": 5599
+    },
+    {
+      "pageId": "115277933",
+      "title": "Retargeting Best Practices",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115277933",
+      "file": "Concepts/Targeting-Concepts/155-Retargeting-Best-Practices.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:18:16.761Z",
+      "bytesHtml": 30986
+    },
+    {
+      "pageId": "114884840",
+      "title": "Targeting Presets",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114884840",
+      "file": "Concepts/Targeting-Concepts/156-Targeting-Presets.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:18:59.584Z",
+      "bytesHtml": 6423
+    },
+    {
+      "pageId": "114786419",
+      "title": "Release Notes",
+      "depth": 0,
+      "url": "https://hub.freewheel.tv/space/BC/114786419",
+      "file": "157-Release-Notes.md",
+      "version": 5,
+      "createdAt": "2026-03-17T13:12:13.798Z",
+      "bytesHtml": 13659
+    },
+    {
+      "pageId": "113901674",
+      "title": "API Changelog",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/113901674",
+      "file": "Release-Notes/158-API-Changelog.md",
+      "version": 8,
+      "createdAt": "2026-03-17T13:12:47.102Z",
+      "bytesHtml": 51088
+    },
+    {
+      "pageId": "113967265",
+      "title": "2026 Release Notes",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/113967265",
+      "file": "Release-Notes/159-2026-Release-Notes.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:12:29.108Z",
+      "bytesHtml": 5434
+    },
+    {
+      "pageId": "303628383",
+      "title": "May 2026 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/303628383",
+      "file": "Release-Notes/2026-Release-Notes/160-May-2026---Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-05-11T16:16:29.329Z",
+      "bytesHtml": 11683
+    },
+    {
+      "pageId": "213254150",
+      "title": "April 2026 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/213254150",
+      "file": "Release-Notes/2026-Release-Notes/161-April-2026---Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-04-15T13:42:00.641Z",
+      "bytesHtml": 9450
+    },
+    {
+      "pageId": "114131162",
+      "title": "March 2026 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114131162",
+      "file": "Release-Notes/2026-Release-Notes/162-March-2026---Release-Notes.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:17:15.917Z",
+      "bytesHtml": 7534
+    },
+    {
+      "pageId": "114819166",
+      "title": "February 2026 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114819166",
+      "file": "Release-Notes/2026-Release-Notes/163-February-2026---Release-Notes.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:15:41.124Z",
+      "bytesHtml": 9742
+    },
+    {
+      "pageId": "114229552",
+      "title": "January 2026 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114229552",
+      "file": "Release-Notes/2026-Release-Notes/164-January-2026---Release-Notes.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:16:36.377Z",
+      "bytesHtml": 5234
+    },
+    {
+      "pageId": "113803619",
+      "title": "2025 Release Notes",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/113803619",
+      "file": "Release-Notes/165-2025-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:12:26.647Z",
+      "bytesHtml": 6083
+    },
+    {
+      "pageId": "114458809",
+      "title": "December 2025 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114458809",
+      "file": "Release-Notes/2025-Release-Notes/166-December-2025---Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:16.216Z",
+      "bytesHtml": 19801
+    },
+    {
+      "pageId": "114295054",
+      "title": "November 2025 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114295054",
+      "file": "Release-Notes/2025-Release-Notes/167-November-2025---Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:17:47.325Z",
+      "bytesHtml": 3516
+    },
+    {
+      "pageId": "114852064",
+      "title": "October 2025 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114852064",
+      "file": "Release-Notes/2025-Release-Notes/168-October-2025---Release-Notes.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:17:55.188Z",
+      "bytesHtml": 16019
+    },
+    {
+      "pageId": "115212387",
+      "title": "September 2025 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115212387",
+      "file": "Release-Notes/2025-Release-Notes/169-September-2025---Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:18:41.667Z",
+      "bytesHtml": 19719
+    },
+    {
+      "pageId": "114295004",
+      "title": "August 2025 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114295004",
+      "file": "Release-Notes/2025-Release-Notes/170-August-2025---Release-Notes.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:14:35.638Z",
+      "bytesHtml": 9185
+    },
+    {
+      "pageId": "113672590",
+      "title": "July 2025 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113672590",
+      "file": "Release-Notes/2025-Release-Notes/171-July-2025---Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:16:43.608Z",
+      "bytesHtml": 7025
+    },
+    {
+      "pageId": "113836431",
+      "title": "June 2025 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113836431",
+      "file": "Release-Notes/2025-Release-Notes/172-June-2025---Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:16:51.261Z",
+      "bytesHtml": 6510
+    },
+    {
+      "pageId": "113901734",
+      "title": "May 2025 - Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113901734",
+      "file": "Release-Notes/2025-Release-Notes/173-May-2025---Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:17:24.945Z",
+      "bytesHtml": 9961
+    },
+    {
+      "pageId": "114786609",
+      "title": "March 2025 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114786609",
+      "file": "Release-Notes/2025-Release-Notes/174-March-2025---Beeswax-Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:17:13.376Z",
+      "bytesHtml": 7065
+    },
+    {
+      "pageId": "113967313",
+      "title": "February 2025 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113967313",
+      "file": "Release-Notes/2025-Release-Notes/175-February-2025---Beeswax-Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:38.642Z",
+      "bytesHtml": 9969
+    },
+    {
+      "pageId": "114229523",
+      "title": "January 2025 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114229523",
+      "file": "Release-Notes/2025-Release-Notes/176-January-2025---Beeswax-Release-Notes.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:16:33.941Z",
+      "bytesHtml": 6106
+    },
+    {
+      "pageId": "115114153",
+      "title": "2024 Release Notes",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115114153",
+      "file": "Release-Notes/177-2024-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:12:24.256Z",
+      "bytesHtml": 6112
+    },
+    {
+      "pageId": "113836371",
+      "title": "December 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113836371",
+      "file": "Release-Notes/2024-Release-Notes/178-December-2024---Beeswax-Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:15:13.285Z",
+      "bytesHtml": 6112
+    },
+    {
+      "pageId": "115081505",
+      "title": "November 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115081505",
+      "file": "Release-Notes/2024-Release-Notes/179-November-2024---Beeswax-Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:17:44.587Z",
+      "bytesHtml": 6929
+    },
+    {
+      "pageId": "114917690",
+      "title": "October 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114917690",
+      "file": "Release-Notes/2024-Release-Notes/180-October-2024---Beeswax-Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:17:52.921Z",
+      "bytesHtml": 8004
+    },
+    {
+      "pageId": "114229586",
+      "title": "September 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114229586",
+      "file": "Release-Notes/2024-Release-Notes/181-September-2024---Beeswax-Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:18:39.072Z",
+      "bytesHtml": 5087
+    },
+    {
+      "pageId": "114491546",
+      "title": "August 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114491546",
+      "file": "Release-Notes/2024-Release-Notes/182-August-2024---Beeswax-Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:33.268Z",
+      "bytesHtml": 6759
+    },
+    {
+      "pageId": "113639635",
+      "title": "July 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113639635",
+      "file": "Release-Notes/2024-Release-Notes/183-July-2024---Beeswax-Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:16:41.281Z",
+      "bytesHtml": 5595
+    },
+    {
+      "pageId": "114360781",
+      "title": "June 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114360781",
+      "file": "Release-Notes/2024-Release-Notes/184-June-2024---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:16:48.302Z",
+      "bytesHtml": 9777
+    },
+    {
+      "pageId": "115245171",
+      "title": "May 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115245171",
+      "file": "Release-Notes/2024-Release-Notes/185-May-2024---Beeswax-Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:17:21.174Z",
+      "bytesHtml": 12954
+    },
+    {
+      "pageId": "114131115",
+      "title": "April 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114131115",
+      "file": "Release-Notes/2024-Release-Notes/186-April-2024---Beeswax-Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:22.439Z",
+      "bytesHtml": 8884
+    },
+    {
+      "pageId": "115179701",
+      "title": "March 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115179701",
+      "file": "Release-Notes/2024-Release-Notes/187-March-2024---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:17:11.038Z",
+      "bytesHtml": 7442
+    },
+    {
+      "pageId": "114262304",
+      "title": "February 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114262304",
+      "file": "Release-Notes/2024-Release-Notes/188-February-2024---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:15:36.369Z",
+      "bytesHtml": 9352
+    },
+    {
+      "pageId": "115179676",
+      "title": "January 2024 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115179676",
+      "file": "Release-Notes/2024-Release-Notes/189-January-2024---Beeswax-Release-Notes.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:16:31.419Z",
+      "bytesHtml": 5110
+    },
+    {
+      "pageId": "114327765",
+      "title": "2023 Release Notes",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114327765",
+      "file": "Release-Notes/190-2023-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:12:21.832Z",
+      "bytesHtml": 6112
+    },
+    {
+      "pageId": "114491577",
+      "title": "December 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114491577",
+      "file": "Release-Notes/2023-Release-Notes/191-December-2023---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:15:10.393Z",
+      "bytesHtml": 9520
+    },
+    {
+      "pageId": "114426009",
+      "title": "November 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114426009",
+      "file": "Release-Notes/2023-Release-Notes/192-November-2023---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:17:42.303Z",
+      "bytesHtml": 7780
+    },
+    {
+      "pageId": "114786640",
+      "title": "October 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114786640",
+      "file": "Release-Notes/2023-Release-Notes/193-October-2023---Beeswax-Release-Notes.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:17:50.103Z",
+      "bytesHtml": 7190
+    },
+    {
+      "pageId": "113901767",
+      "title": "September 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113901767",
+      "file": "Release-Notes/2023-Release-Notes/194-September-2023---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:18:36.856Z",
+      "bytesHtml": 6669
+    },
+    {
+      "pageId": "113836299",
+      "title": "August 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113836299",
+      "file": "Release-Notes/2023-Release-Notes/195-August-2023---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:14:31.140Z",
+      "bytesHtml": 13204
+    },
+    {
+      "pageId": "114589963",
+      "title": "July 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114589963",
+      "file": "Release-Notes/2023-Release-Notes/196-July-2023---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:16:39.148Z",
+      "bytesHtml": 7113
+    },
+    {
+      "pageId": "113803789",
+      "title": "June 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113803789",
+      "file": "Release-Notes/2023-Release-Notes/197-June-2023---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:16:46.087Z",
+      "bytesHtml": 6604
+    },
+    {
+      "pageId": "113967380",
+      "title": "May 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113967380",
+      "file": "Release-Notes/2023-Release-Notes/198-May-2023---Beeswax-Release-Notes.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:17:18.654Z",
+      "bytesHtml": 4590
+    },
+    {
+      "pageId": "114688227",
+      "title": "April 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114688227",
+      "file": "Release-Notes/2023-Release-Notes/199-April-2023---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:14:20.161Z",
+      "bytesHtml": 4502
+    },
+    {
+      "pageId": "114360844",
+      "title": "March 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114360844",
+      "file": "Release-Notes/2023-Release-Notes/200-March-2023---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:17:07.301Z",
+      "bytesHtml": 11775
+    },
+    {
+      "pageId": "114098324",
+      "title": "February 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114098324",
+      "file": "Release-Notes/2023-Release-Notes/201-February-2023---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:15:33.984Z",
+      "bytesHtml": 7967
+    },
+    {
+      "pageId": "114786588",
+      "title": "January 2023 - Beeswax Release Notes",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114786588",
+      "file": "Release-Notes/2023-Release-Notes/202-January-2023---Beeswax-Release-Notes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:16:29.418Z",
+      "bytesHtml": 6125
+    },
+    {
+      "pageId": "113672525",
+      "title": "Archive - Beeswax Release Notes",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/113672525",
+      "file": "Release-Notes/203-Archive---Beeswax-Release-Notes.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:12:49.535Z",
+      "bytesHtml": 83150
+    },
+    {
+      "pageId": "115245059",
+      "title": "Status Page",
+      "depth": 0,
+      "url": "https://hub.freewheel.tv/space/BC/115245059",
+      "file": "204-Status-Page.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:12:16.373Z",
+      "bytesHtml": 1048
+    },
+    {
+      "pageId": "115212289",
+      "title": "Buyer Guides",
+      "depth": 0,
+      "url": "https://hub.freewheel.tv/space/BC/115212289",
+      "file": "205-Buyer-Guides.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:11:59.785Z",
+      "bytesHtml": 5792
+    },
+    {
+      "pageId": "115179527",
+      "title": "Audio Buyer's Guide",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115179527",
+      "file": "Buyer-Guides/206-Audio-Buyers-Guide.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:12:52.707Z",
+      "bytesHtml": 39849
+    },
+    {
+      "pageId": "113803676",
+      "title": "CTR Optimization Guide",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/113803676",
+      "file": "Buyer-Guides/207-CTR-Optimization-Guide.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:13:08.837Z",
+      "bytesHtml": 6939
+    },
+    {
+      "pageId": "115343382",
+      "title": "CTV/OTT Buyer's Guide",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115343382",
+      "file": "Buyer-Guides/208-CTVOTT-Buyers-Guide.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:13:11.131Z",
+      "bytesHtml": 24723
+    },
+    {
+      "pageId": "114819129",
+      "title": "Disney and Hulu Buyer's Guide",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114819129",
+      "file": "Buyer-Guides/209-Disney-and-Hulu-Buyers-Guide.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:13:24.222Z",
+      "bytesHtml": 30494
+    },
+    {
+      "pageId": "115343444",
+      "title": "Google Ad Exchange Buyer's Guide",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115343444",
+      "file": "Buyer-Guides/210-Google-Ad-Exchange-Buyers-Guide.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:13:31.250Z",
+      "bytesHtml": 7482
+    },
+    {
+      "pageId": "114688163",
+      "title": "Over-the-Top (OTT) Best Practices",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114688163",
+      "file": "Buyer-Guides/211-Over-the-Top-OTT-Best-Practices.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:13:38.497Z",
+      "bytesHtml": 6279
+    },
+    {
+      "pageId": "113836229",
+      "title": "Pause Ads Buyer's Guide",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/113836229",
+      "file": "Buyer-Guides/212-Pause-Ads-Buyers-Guide.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:13:40.685Z",
+      "bytesHtml": 9770
+    },
+    {
+      "pageId": "114458776",
+      "title": "Peacock Buyer's Guide",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114458776",
+      "file": "Buyer-Guides/213-Peacock-Buyers-Guide.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:13:44.086Z",
+      "bytesHtml": 7744
+    },
+    {
+      "pageId": "114884758",
+      "title": "Rewarded Video Buyer's Guide",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114884758",
+      "file": "Buyer-Guides/214-Rewarded-Video-Buyers-Guide.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:13:49.735Z",
+      "bytesHtml": 4929
+    },
+    {
+      "pageId": "114917508",
+      "title": "Targeting Premium Inventory Buyer's Guide",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/114917508",
+      "file": "Buyer-Guides/215-Targeting-Premium-Inventory-Buyers-Guide.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:14:00.548Z",
+      "bytesHtml": 6369
+    },
+    {
+      "pageId": "115212308",
+      "title": "First and Third-Party Data",
+      "depth": 0,
+      "url": "https://hub.freewheel.tv/space/BC/115212308",
+      "file": "216-First-and-Third-Party-Data.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:12:04.154Z",
+      "bytesHtml": 6024
+    },
+    {
+      "pageId": "115376131",
+      "title": "Custom ID Spaces",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115376131",
+      "file": "First-and-Third-Party-Data/217-Custom-ID-Spaces.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:13:13.646Z",
+      "bytesHtml": 3952
+    },
+    {
+      "pageId": "113803701",
+      "title": "Data Partners",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/113803701",
+      "file": "First-and-Third-Party-Data/218-Data-Partners.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:13:21.319Z",
+      "bytesHtml": 25388
+    },
+    {
+      "pageId": "113672569",
+      "title": "Audience Partners",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113672569",
+      "file": "First-and-Third-Party-Data/Data-Partners/219-Audience-Partners.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:14:28.444Z",
+      "bytesHtml": 8321
+    },
+    {
+      "pageId": "113639664",
+      "title": "Blockgraph",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113639664",
+      "file": "First-and-Third-Party-Data/Data-Partners/Audience-Partners/220-Blockgraph.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:19:30.170Z",
+      "bytesHtml": 6394
+    },
+    {
+      "pageId": "113672623",
+      "title": "FreeWheel Comcast+ Segments",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113672623",
+      "file": "First-and-Third-Party-Data/Data-Partners/Audience-Partners/221-FreeWheel-Comcast-Segments.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:18.455Z",
+      "bytesHtml": 19262
+    },
+    {
+      "pageId": "114426082",
+      "title": "LiveRamp RampID Bidding and Segment Targeting",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114426082",
+      "file": "First-and-Third-Party-Data/Data-Partners/Audience-Partners/222-LiveRamp-RampID-Bidding-and-Segment-Targeting.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:21:06.851Z",
+      "bytesHtml": 6936
+    },
+    {
+      "pageId": "114622962",
+      "title": "Using Identity Network and LiveRamp",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114622962",
+      "file": "First-and-Third-Party-Data/Data-Partners/Audience-Partners/223-Using-Identity-Network-and-LiveRamp.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:22:02.964Z",
+      "bytesHtml": 8335
+    },
+    {
+      "pageId": "114262283",
+      "title": "Contextual Partners",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114262283",
+      "file": "First-and-Third-Party-Data/Data-Partners/224-Contextual-Partners.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:49.458Z",
+      "bytesHtml": 8671
+    },
+    {
+      "pageId": "115179761",
+      "title": "Comscore Contextual Targeting",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115179761",
+      "file": "First-and-Third-Party-Data/Data-Partners/Contextual-Partners/225-Comscore-Contextual-Targeting.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:19:32.847Z",
+      "bytesHtml": 11953
+    },
+    {
+      "pageId": "115114385",
+      "title": "IAS Context Control Segments",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115114385",
+      "file": "First-and-Third-Party-Data/Data-Partners/Contextual-Partners/226-IAS-Context-Control-Segments.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:38.225Z",
+      "bytesHtml": 2788
+    },
+    {
+      "pageId": "113869128",
+      "title": "Measurement and Verification Partners",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113869128",
+      "file": "First-and-Third-Party-Data/Data-Partners/227-Measurement-and-Verification-Partners.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:17:27.272Z",
+      "bytesHtml": 8963
+    },
+    {
+      "pageId": "115114364",
+      "title": "DoubleVerify Pre-bid Targeting",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/115114364",
+      "file": "First-and-Third-Party-Data/Data-Partners/Measurement-and-Verification-Partners/228-DoubleVerify-Pre-bid-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:10.137Z",
+      "bytesHtml": 10201
+    },
+    {
+      "pageId": "114884861",
+      "title": "How to use Adjust with Buyer Cloud",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114884861",
+      "file": "First-and-Third-Party-Data/Data-Partners/Measurement-and-Verification-Partners/229-How-to-use-Adjust-with-Buyer-Cloud.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:20:32.102Z",
+      "bytesHtml": 14808
+    },
+    {
+      "pageId": "113836787",
+      "title": "HUMAN FraudSensor",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/113836787",
+      "file": "First-and-Third-Party-Data/Data-Partners/Measurement-and-Verification-Partners/230-HUMAN-FraudSensor.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:20:35.247Z",
+      "bytesHtml": 7659
+    },
+    {
+      "pageId": "114917752",
+      "title": "IAS Pre-Bid Targeting",
+      "depth": 3,
+      "url": "https://hub.freewheel.tv/space/BC/114917752",
+      "file": "First-and-Third-Party-Data/Data-Partners/Measurement-and-Verification-Partners/231-IAS-Pre-Bid-Targeting.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:20:40.875Z",
+      "bytesHtml": 12116
+    },
+    {
+      "pageId": "114622894",
+      "title": "Supply Partners",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114622894",
+      "file": "First-and-Third-Party-Data/Data-Partners/232-Supply-Partners.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:18:46.366Z",
+      "bytesHtml": 78641
+    },
+    {
+      "pageId": "115114261",
+      "title": "Data Partner Implementation Guides",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115114261",
+      "file": "First-and-Third-Party-Data/233-Data-Partner-Implementation-Guides.md",
+      "version": 4,
+      "createdAt": "2026-03-17T13:13:18.848Z",
+      "bytesHtml": 1529
+    },
+    {
+      "pageId": "115277885",
+      "title": "Create Custom Segments in Peer39",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115277885",
+      "file": "First-and-Third-Party-Data/Data-Partner-Implementation-Guides/234-Create-Custom-Segments-in-Peer39.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:14:53.915Z",
+      "bytesHtml": 3788
+    },
+    {
+      "pageId": "114688260",
+      "title": "How to Enable AppsFlyer Audience Segments",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114688260",
+      "file": "First-and-Third-Party-Data/Data-Partner-Implementation-Guides/235-How-to-Enable-AppsFlyer-Audience-Segments.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:15:53.361Z",
+      "bytesHtml": 2819
+    },
+    {
+      "pageId": "115310615",
+      "title": "How to Register Adobe Segments",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115310615",
+      "file": "First-and-Third-Party-Data/Data-Partner-Implementation-Guides/236-How-to-Register-Adobe-Segments.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:15:55.774Z",
+      "bytesHtml": 5250
+    },
+    {
+      "pageId": "114393235",
+      "title": "How to Register Custom Experian Segments",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/114393235",
+      "file": "First-and-Third-Party-Data/Data-Partner-Implementation-Guides/237-How-to-Register-Custom-Experian-Segments.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:15:58.101Z",
+      "bytesHtml": 5734
+    },
+    {
+      "pageId": "115179604",
+      "title": "How to Register LiveRamp Segments",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/115179604",
+      "file": "First-and-Third-Party-Data/Data-Partner-Implementation-Guides/238-How-to-Register-LiveRamp-Segments.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:16:00.414Z",
+      "bytesHtml": 14878
+    },
+    {
+      "pageId": "113836402",
+      "title": "How To Register Lotame Segments",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113836402",
+      "file": "First-and-Third-Party-Data/Data-Partner-Implementation-Guides/239-How-To-Register-Lotame-Segments.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:16:03.756Z",
+      "bytesHtml": 6327
+    },
+    {
+      "pageId": "113967346",
+      "title": "How to Register TransUnion TruAudience Segments",
+      "depth": 2,
+      "url": "https://hub.freewheel.tv/space/BC/113967346",
+      "file": "First-and-Third-Party-Data/Data-Partner-Implementation-Guides/240-How-to-Register-TransUnion-TruAudience-Segments.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:16:06.013Z",
+      "bytesHtml": 5876
+    },
+    {
+      "pageId": "114098293",
+      "title": "Policies",
+      "depth": 0,
+      "url": "https://hub.freewheel.tv/space/BC/114098293",
+      "file": "241-Policies.md",
+      "version": 2,
+      "createdAt": "2026-03-17T13:12:11.829Z",
+      "bytesHtml": 5613
+    },
+    {
+      "pageId": "115114240",
+      "title": "Billable Seat Support by Exchange",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115114240",
+      "file": "Policies/242-Billable-Seat-Support-by-Exchange.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:12:58.679Z",
+      "bytesHtml": 3765
+    },
+    {
+      "pageId": "115015844",
+      "title": "CCPA Guidelines and Changes",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115015844",
+      "file": "Policies/243-CCPA-Guidelines-and-Changes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:13:01.680Z",
+      "bytesHtml": 4798
+    },
+    {
+      "pageId": "115212333",
+      "title": "COPPA Compliant Buying",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/115212333",
+      "file": "Policies/244-COPPA-Compliant-Buying.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:13:03.999Z",
+      "bytesHtml": 13296
+    },
+    {
+      "pageId": "113869031",
+      "title": "GDPR Guidelines and Changes",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/113869031",
+      "file": "Policies/245-GDPR-Guidelines-and-Changes.md",
+      "version": 3,
+      "createdAt": "2026-03-17T13:13:26.699Z",
+      "bytesHtml": 28468
+    },
+    {
+      "pageId": "113999953",
+      "title": "Limit Ad Tracking (LMT) Processing Logic",
+      "depth": 1,
+      "url": "https://hub.freewheel.tv/space/BC/113999953",
+      "file": "Policies/246-Limit-Ad-Tracking-LMT-Processing-Logic.md",
+      "version": 1,
+      "createdAt": "2026-03-17T13:13:36.304Z",
+      "bytesHtml": 10010
+    }
+  ]
+}

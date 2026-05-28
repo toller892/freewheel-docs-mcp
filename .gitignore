@@ -1,0 +1,7 @@
+node_modules/
+dist/
+scraped/
+*.log
+.env
+*.sqlite-shm
+*.sqlite-wal
